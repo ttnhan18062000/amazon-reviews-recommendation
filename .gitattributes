@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+processed/*.bin filter=lfs diff=lfs merge=lfs -text
+processed/*.pkl filter=lfs diff=lfs merge=lfs -text
+processed/*.csv filter=lfs diff=lfs merge=lfs -text
